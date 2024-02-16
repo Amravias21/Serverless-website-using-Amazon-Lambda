@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 3. **Environment Setup**: Configure your local development environment with necessary AWS CLI tools or SDKs.
 4. **Clone Repository**: Clone this GitHub repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/Amravias21/Serverless-website-using-Amazon-Lambda.git
    ```
 5. **Configuration Files**: Update configuration files, if any, to reflect your AWS credentials and service configurations.
 
@@ -51,3 +51,6 @@ Contributions to the project are welcome. To contribute, follow these steps:
 3. Make your changes and commit them to your branch.
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
+
+## License
+This dataset is provided under the [MIT License](LICENSE), allowing for unrestricted use, modification, and distribution.
