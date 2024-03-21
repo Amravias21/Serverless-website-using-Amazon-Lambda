@@ -1,4 +1,4 @@
-# Project Name
+# Serverless Website using Amazon Lambda
 
 ## Description
 
